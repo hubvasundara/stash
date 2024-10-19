@@ -1,0 +1,1 @@
+test stash4.txt functionality test
